@@ -1,0 +1,23 @@
+{
+  "name": "toydapp",
+  "version": "1.0.0",
+  "description": "Toy dApp experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamArmstr/ToyDapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamArmstr/ToyDapp/issues"
+  },
+  "homepage": "https://github.com/CamArmstr/ToyDapp#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "hardhat": "^2.9.2"
+  }
+}
